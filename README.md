@@ -3,9 +3,8 @@
 <h1 align="center">Hi 👋, I'm Mohan Karthik</h1>
 <h3 align="center">A passionate Full Stack Developer & ML Enthusiast from RVCE CSE Department</h3>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" alt="hacking" width="500" />
-</p>
+  <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
+
 
 <!-- SOCIAL ICONS -->
 
