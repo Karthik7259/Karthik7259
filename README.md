@@ -1,10 +1,13 @@
 <!-- HEADER -->
 
-<h1 align="center">Hi 👋, I'm Mohan Karthik</h1>
-<h3 align="center">A passionate Full Stack Developer & ML Enthusiast from RVCE CSE Department</h3>
-
-  <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
-
+<p align="center">
+  <img src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="200"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <h1 align="center">Hi 👋, I'm Mohan Karthik</h1>
+  <h3 align="center">A passionate Full Stack Developer & ML Enthusiast from RVCE CSE Department</h3>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="200"/>
+</p>
 
 <!-- SOCIAL ICONS -->
 
@@ -16,7 +19,8 @@
   <a href="https://www.instagram.com/karthik__147?igsh=MXNudTJ5MHZwY2ZmZA==" target="_blank">
     <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="mailto:mohankartik.cs23@rvce.edu.in>
+  
+  <a href="mailto:mohankartik.cs23@rvce.edu.in">
     <img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
@@ -27,7 +31,7 @@
 
 - 👯 I’m looking to collaborate on **Open Source ML and Full-Stack projects**
 - 💬 Ask me about **MERN Stack, Python, and Machine Learning**
-- 📫 How to reach me: **mohankartik.cs23@rvce.edu.in** 
+- 📫 How to reach me: **mohankartik.cs23@rvce.edu.in**
 
 ---
 
@@ -52,6 +56,7 @@
 
 <!-- GITHUB STATS -->
 
+<!-- (You can add GitHub stats here later if needed) -->
 
 ---
 
@@ -59,15 +64,11 @@
 
 ### 🚀 Featured Projects
 
- 🔗 RideOnX — A full-featured with real-time tracking and driver-rider interaction Application
+- 🔗 **RideOnX** — A full-featured Uber clone with real-time tracking and driver-rider interaction
 
 ---
 
-
-
-
----
-
+<!-- FOOTER -->
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=0e75b6&style=flat" alt="yourusername" />
