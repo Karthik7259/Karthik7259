@@ -1,57 +1,70 @@
+<!-- HEADER -->
+
 <h1 align="center">Hi 👋, I'm Mohan Karthik</h1>
-<h3 align="center">A passionate Full Stack Developer and ML Enthusiast from RVCE</h3>
+<h3 align="center">A passionate Full Stack Developer & ML Enthusiast from India</h3>
+
+<!-- SOCIAL ICONS -->
 
 <p align="center">
-  <a href="https://linkedin.com/in/your-linkedin" target="_blank">
+  <a href="https://www.linkedin.com/in/mohan-karthik-aa169a294" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:youremail@example.com">
-    <img alt="Gmail" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  
+  <a href="https://www.instagram.com/karthik__147?igsh=MXNudTJ5MHZwY2ZmZA==" target="_blank">
+    <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="mailto:mohankartik.cs23@rvce.edu.in>
+    <img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
 ---
 
-- 🔭 I’m currently working on **AI-powered multi-agent task allocation systems**
-- 🌱 I’m learning **LangGraph, CrewAI, and advanced backend design**
-- 👯 I’m looking to collaborate on **machine learning, React, and backend projects**
-- 💬 Ask me about **JavaScript, Python, MongoDB, and ML**
-- ⚡ Fun fact: *I'm a Codeforces Candidate Master and a LeetCode Guardian*
+<!-- ABOUT SECTION -->
+
+- 👯 I’m looking to collaborate on **Open Source ML and Full-Stack projects**
+- 💬 Ask me about **MERN Stack, Python, and Machine Learning**
+- 📫 How to reach me: **mohankartik.cs23@rvce.edu.in** 
 
 ---
+
+<!-- TECH STACK -->
 
 ### 🛠️ Tech Stack
 
 <p align="left">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB&style=for-the-badge" />
   <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/MySQL-00758F?logo=mysql&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white&style=for-the-badge" />
 </p>
 
 ---
 
-### 📊 GitHub Stats
+<!-- GITHUB STATS -->
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=github_dark" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=github_dark" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=github_dark" />
-</p>
 
 ---
+
+<!-- PROJECTS -->
 
 ### 🚀 Featured Projects
 
-- [🔗 Agrilearn](https://github.com/yourusername/agrilearn) — Farmer's discussion forum + disease detection
-- [🔗 AI Proctoring System](https://github.com/yourusername/ai-proctoring) — No-video behavioral-based exam monitoring
-- [🔗 BCI Blink Speller](https://github.com/yourusername/bci-blink-speller) — Brain-computer interface for ALS patients
+ 🔗 RideOnX — A full-featured with real-time tracking and driver-rider interaction Application
 
 ---
+
+
+
+
+---
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=0e75b6&style=flat" alt="yourusername" />
 </p>
-
