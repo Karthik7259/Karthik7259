@@ -64,7 +64,7 @@
 
 ### 🚀 Featured Projects
 
-- 🔗 **RideOnX** — A full-featured Uber clone with real-time tracking and driver-rider interaction
+- 🔗 **RideOnX** — A full-featured application with real-time tracking and driver-rider interaction
 
 ---
 
