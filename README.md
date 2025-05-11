@@ -1,7 +1,11 @@
 <!-- HEADER -->
 
 <h1 align="center">Hi 👋, I'm Mohan Karthik</h1>
-<h3 align="center">A passionate Full Stack Developer & ML Enthusiast from India</h3>
+<h3 align="center">A passionate Full Stack Developer & ML Enthusiast from RVCE CSE Department</h3>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" alt="hacking" width="500" />
+</p>
 
 <!-- SOCIAL ICONS -->
 
@@ -42,6 +46,7 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" />
 </p>
 
 ---
