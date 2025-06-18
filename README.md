@@ -67,6 +67,13 @@
 
 ---
 
+### ⚛️ React-Based Projects
+
+Here are some of my projects built using React.js:
+
+- ✅ **[ClearTick](https://cleartick.netlify.app/)**  
+  A dynamic to-do and task management application built with React, featuring a sleek UI and real-time interactivity.
+
 
 ### 🌐 HTML, CSS & JavaScript Projects
 
@@ -83,6 +90,7 @@ Here are some of my frontend-focused projects built using HTML, CSS, and JavaScr
 
 - ✅ **[To-Do List App](https://karthik7259.github.io/todolist/)**  
   A simple and elegant to-do list application that allows users to add and remove tasks with ease.
+
 
 
 
