@@ -65,11 +65,6 @@
 
 ---
 
-### 🌐 HTML, CSS & JavaScript Projects
-
-Here are some of my frontend-focused projects built using HTML, CSS, and JavaScript:
-
----
 
 ### 🌐 HTML, CSS & JavaScript Projects
 
