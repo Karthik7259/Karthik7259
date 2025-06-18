@@ -69,7 +69,7 @@
 
 ### ⚛️ React-Based Projects
 
-Here are some of my projects built using React.js:
+A set of projects leveraging React.js for building modular, component-driven, and high-performance web applications
 
 - ✅ **[ClearTick](https://cleartick.netlify.app/)**  
   A dynamic to-do and task management application built with React, featuring a sleek UI and real-time interactivity.
