@@ -71,24 +71,19 @@ Here are some of my frontend-focused projects built using HTML, CSS, and JavaScr
 
 ---
 
-#### 🏨 Hotel Booking Website  
-A responsive hotel booking platform with elegant UI and real-time booking features.
+### 🌐 HTML, CSS & JavaScript Projects
 
-[![Hotel Booking Website](https://via.placeholder.com/800x400?text=Hotel+Booking+Website)](https://hotel-booking-website-livid.vercel.app/)
+Here are some of my frontend-focused projects built using HTML, CSS, and JavaScript:
 
----
+- 🏨 **[Hotel Booking Website](https://hotel-booking-website-livid.vercel.app/)**  
+  A responsive hotel booking platform with modern UI and intuitive navigation.
 
-#### 🎨 Marvelous Pixie Portfolio  
-An animated personal portfolio showcasing creative UI transitions and responsive design.
+- 🎨 **[Marvelous Pixie Portfolio](https://marvelous-pixie.netlify.app/)**  
+  A personal portfolio website showcasing animations, transitions, and clean design.
 
-[![Marvelous Pixie Portfolio](https://via.placeholder.com/800x400?text=Marvelous+Pixie+Portfolio)](https://marvelous-pixie.netlify.app/)
+- 🏢 **[TechCorp Landing Page](https://karthik7259.github.io/TechCorp/)**  
+  A professional landing page for a fictional tech company highlighting services and contact info.
 
----
-
-#### 🏢 TechCorp Landing Page  
-A clean, corporate-style landing page for a fictional tech startup.
-
-[![TechCorp Landing Page](https://via.placeholder.com/800x400?text=TechCorp+Landing+Page)](https://karthik7259.github.io/TechCorp/)
 
 ---
 
