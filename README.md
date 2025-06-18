@@ -79,6 +79,10 @@ Here are some of my frontend-focused projects built using HTML, CSS, and JavaScr
 - 🏢 **[TechCorp Landing Page](https://karthik7259.github.io/TechCorp/)**  
   A professional landing page for a fictional tech company highlighting services and contact info.
 
+- ✅ **[To-Do List App](https://karthik7259.github.io/todolist/)**  
+  A simple and elegant to-do list application that allows users to add and remove tasks with ease.
+
+
 
 ---
 
