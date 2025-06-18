@@ -2,12 +2,9 @@
 
 <p align="center">
   <img src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="200"/>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <h1 align="center">Hi 👋, I'm Mohan Karthik</h1>
-  <h3 align="center">A passionate Full Stack Developer & ML Enthusiast from RVCE CSE Department</h3>
-  &nbsp;&nbsp;&nbsp;&nbsp;
- 
 </p>
+<h1 align="center">Hi 👋, I'm Mohan Karthik</h1>
+<h3 align="center">A passionate Full Stack Developer & ML Enthusiast from RVCE CSE Department</h3>
 
 <!-- SOCIAL ICONS -->
 
@@ -65,6 +62,42 @@
 ### 🚀 Featured Projects
 
 - 🔗 **RideOnX** — A full-featured application with real-time tracking and driver-rider interaction
+
+---
+
+### 🌐 HTML, CSS & JavaScript Projects
+
+Here are some of my frontend-focused projects built using HTML, CSS, and JavaScript:
+
+---
+
+#### 🏨 Hotel Booking Website  
+A responsive hotel booking platform with elegant UI and real-time booking features.
+
+[![Hotel Booking Website](https://via.placeholder.com/800x400?text=Hotel+Booking+Website)](https://hotel-booking-website-livid.vercel.app/)
+
+🔗 [Live Site](https://hotel-booking-website-livid.vercel.app/)  
+🛠️ HTML • CSS • JavaScript
+
+---
+
+#### 🎨 Marvelous Pixie Portfolio  
+An animated personal portfolio showcasing creative UI transitions and responsive design.
+
+[![Marvelous Pixie Portfolio](https://via.placeholder.com/800x400?text=Marvelous+Pixie+Portfolio)](https://marvelous-pixie.netlify.app/)
+
+🔗 [Live Site](https://marvelous-pixie.netlify.app/)  
+🛠️ HTML • CSS • JavaScript
+
+---
+
+#### 🏢 TechCorp Landing Page  
+A clean, corporate-style landing page for a fictional tech startup.
+
+[![TechCorp Landing Page](https://via.placeholder.com/800x400?text=TechCorp+Landing+Page)](https://karthik7259.github.io/TechCorp/)
+
+🔗 [Live Site](https://karthik7259.github.io/TechCorp/)  
+🛠️ HTML • CSS • JavaScript
 
 ---
 
