@@ -90,7 +90,7 @@ Explore a selection of my web development projects crafted using HTML, CSS, and 
   A responsive hotel booking platform with modern UI and intuitive navigation.
 
 - 🎨 **[Marvelous Pixie Portfolio](https://marvelous-pixie.netlify.app/)**  
-  A personal portfolio website showcasing animations, transitions, and clean design.
+  A static Apple-inspired landing page featuring clean layout, responsive design, and aesthetic typography, replicating Apple’s signature minimalist style.
 
 - 🏢 **[TechCorp Landing Page](https://karthik7259.github.io/TechCorp/)**  
   A professional landing page for a fictional tech company highlighting services and contact info.
