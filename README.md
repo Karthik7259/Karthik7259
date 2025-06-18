@@ -77,7 +77,7 @@ Here are some of my projects built using React.js:
 
 ### 🌐 HTML, CSS & JavaScript Projects
 
-Here are some of my frontend-focused projects built using HTML, CSS, and JavaScript:
+Explore a selection of my web development projects crafted using HTML, CSS, and JavaScript.:
 
 - 🏨 **[Hotel Booking Website](https://hotel-booking-website-livid.vercel.app/)**  
   A responsive hotel booking platform with modern UI and intuitive navigation.
