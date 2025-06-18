@@ -76,18 +76,12 @@ A responsive hotel booking platform with elegant UI and real-time booking featur
 
 [![Hotel Booking Website](https://via.placeholder.com/800x400?text=Hotel+Booking+Website)](https://hotel-booking-website-livid.vercel.app/)
 
-🔗 [Live Site](https://hotel-booking-website-livid.vercel.app/)  
-🛠️ HTML • CSS • JavaScript
-
 ---
 
 #### 🎨 Marvelous Pixie Portfolio  
 An animated personal portfolio showcasing creative UI transitions and responsive design.
 
 [![Marvelous Pixie Portfolio](https://via.placeholder.com/800x400?text=Marvelous+Pixie+Portfolio)](https://marvelous-pixie.netlify.app/)
-
-🔗 [Live Site](https://marvelous-pixie.netlify.app/)  
-🛠️ HTML • CSS • JavaScript
 
 ---
 
@@ -96,8 +90,8 @@ A clean, corporate-style landing page for a fictional tech startup.
 
 [![TechCorp Landing Page](https://via.placeholder.com/800x400?text=TechCorp+Landing+Page)](https://karthik7259.github.io/TechCorp/)
 
-🔗 [Live Site](https://karthik7259.github.io/TechCorp/)  
-🛠️ HTML • CSS • JavaScript
+---
+
 
 ---
 
