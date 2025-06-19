@@ -71,7 +71,8 @@
 A selection of projects where I've applied machine learning techniques to solve real-world problems:
 
 * 🐦 **[BirdCLEF Species Identifier](https://github.com/Karthik7259/BIRD_CLIF_BACKEND)**
-  A deep learning-based audio classification system built for the BirdCLEF challenge, which identifies bird species from field-recorded soundscapes using spectrogram generation, convolutional neural networks, and data augmentation techniques.
+
+A deep learning-based audio classification system built for the BirdCLEF challenge, which identifies bird species from field-recorded soundscapes using spectrogram generation, convolutional neural networks, and data augmentation techniques.
 
 
 ### ⚛️ React-Based Projects
