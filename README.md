@@ -81,6 +81,16 @@ A set of projects leveraging React.js for building modular, component-driven, an
 - ✅ **[ClearTick](https://cleartick.netlify.app/)**  
   A dynamic to-do and task management application built with React, featuring a sleek UI and real-time interactivity.
 
+### 🔌 IoT-Based Projects
+
+Projects that combine hardware and intelligence to solve real-world challenges:
+
+- 🔥 [**FireWatch – Intelligent Early Fire Detector**](https://github.com/Karthik7259/FIREWATCH.git)  
+  An IoT system designed to detect early signs of fire using flame, gas, and temperature sensors. Data is stored in **MongoDB Atlas**, and alerts are managed through a web/mobile interface. The system provides zone-based risk analysis and real-time incident notifications.
+
+- 🧠 [**BCI Smart Home Controller – A Brain-Computer Interface Project**](https://github.com/Karthik7259/BCI_BACKEND.git)  
+  This project acquires and processes EEG signals using a **Flask API**, classifies the user's mental state using a **Random Forest model**, and offers automation suggestions based on those predictions. Smart device control is executed through **Raspberry Pi**, only after explicit user confirmation — ensuring safety and user autonomy.
+
 
 ### 🌐 HTML, CSS & JavaScript Projects
 
