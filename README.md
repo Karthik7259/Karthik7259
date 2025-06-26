@@ -54,8 +54,28 @@
 ---
 
 <!-- GITHUB STATS -->
+### 🏆 GitHub Trophies
 
-<!-- (You can add GitHub stats here later if needed) -->
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=karthik7259&theme=gruvbox&no-bg=true&no-frame=true&column=7" />
+</p>
+
+---
+
+### 📊 GitHub Stats & Streaks
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=karthik7259&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=karthik7259&theme=radical" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karthik7259&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
 
 ---
 
