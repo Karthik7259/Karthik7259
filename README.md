@@ -100,7 +100,7 @@
 | Project | Description | Tech Stack | Live Demo |
 |---------|-------------|------------|-----------|
 | 🏨 **Hotel Booking Website** | Responsive booking platform with modern UI | HTML, CSS, JS | [Visit](https://hotel-booking-website-livid.vercel.app/) |
-| 🎨 **Marvelous Pixie ** | Apple Iphone landing page with minimalist design | HTML, CSS | [Visit](https://marvelous-pixie.netlify.app/) |
+| 🎨 **Marvelous Pixie** | Apple Iphone landing page with minimalist design | HTML, CSS | [Visit](https://marvelous-pixie.netlify.app/) |
 | 🏢 **TechCorp Landing Page** | Corporate site for fictional tech company | HTML, CSS, JS | [Visit](https://karthik7259.github.io/TechCorp/) |
 | ✅ **To-Do List App** | Simple task management web app | HTML, CSS, JS | [Visit](https://karthik7259.github.io/todolist/) |
 
