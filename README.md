@@ -70,19 +70,10 @@
 ---
 ### 🤖 Machine Learning Projects
 
-<details>
-<summary>🐦 <strong>BirdCLEF Species Identifier</strong></summary>
+| Project | Description | Tech Stack | Link |
+|--------|-------------|------------|------|
+| 🐦 **BirdCLEF Species Identifier** | Audio classification system to identify bird species using spectrograms and CNNs | Python, TensorFlow, Librosa | [GitHub](https://github.com/Karthik7259/BIRD_CLIF_BACKEND) |
 
-- 🎯 **Description**:  
-  A deep learning-based audio classification system built for the BirdCLEF challenge. It identifies bird species from soundscape recordings using:
-  - Spectrogram generation
-  - Convolutional Neural Networks (CNNs)
-  - Data augmentation techniques
-
-- 🧰 **Tech Stack**: Python, TensorFlow, Librosa
-
-- 🔗 **Repository**: [BirdCLEF Species Identifier](https://github.com/Karthik7259/BIRD_CLIF_BACKEND)
-</details>
 
 
 
