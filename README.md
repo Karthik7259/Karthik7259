@@ -58,11 +58,6 @@
 
 <!-- GITHUB TROPHIES -->
 
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=karthik7259&theme=algolia&margin-w=15&margin-h=15" />
-</p>
 
 ---
 
@@ -75,11 +70,20 @@
 ---
 ### 🤖 Machine Learning Projects
 
-A selection of projects where I've applied machine learning techniques to solve real-world problems:
+<details>
+<summary>🐦 <strong>BirdCLEF Species Identifier</strong></summary>
 
-* 🐦 **[BirdCLEF Species Identifier](https://github.com/Karthik7259/BIRD_CLIF_BACKEND)**
+- 🎯 **Description**:  
+  A deep learning-based audio classification system built for the BirdCLEF challenge. It identifies bird species from soundscape recordings using:
+  - Spectrogram generation
+  - Convolutional Neural Networks (CNNs)
+  - Data augmentation techniques
 
-A deep learning-based audio classification system built for the BirdCLEF challenge, which identifies bird species from field-recorded soundscapes using spectrogram generation, convolutional neural networks, and data augmentation techniques.
+- 🧰 **Tech Stack**: Python, TensorFlow, Librosa
+
+- 🔗 **Repository**: [BirdCLEF Species Identifier](https://github.com/Karthik7259/BIRD_CLIF_BACKEND)
+</details>
+
 
 
 ### ⚛️ React-Based Projects
