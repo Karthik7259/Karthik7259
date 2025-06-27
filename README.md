@@ -72,7 +72,7 @@
 
 | Project | Description | Tech Stack | Link |
 |--------|-------------|------------|------|
-| 🐦 **BirdCLEF Species Identifier** | Audio classification system to identify bird species using spectrograms and CNNs | Python, TensorFlow, Librosa | [GitHub](https://github.com/Karthik7259/BIRD_CLIF_BACKEND) |
+| 🐦 **BirdCLEF Species Identifier** | Audio classification system to identify bird species using spectrograms and CNNs | Python, TensorFlow, Librosa,Flask,React  | [GitHub](https://github.com/Karthik7259/BIRD_CLIF_BACKEND) |
 
 
 
@@ -100,7 +100,7 @@
 | Project | Description | Tech Stack | Live Demo |
 |---------|-------------|------------|-----------|
 | 🏨 **Hotel Booking Website** | Responsive booking platform with modern UI | HTML, CSS, JS | [Visit](https://hotel-booking-website-livid.vercel.app/) |
-| 🎨 **Marvelous Pixie ** | Apple-style landing page with minimalist design | HTML, CSS | [Visit](https://marvelous-pixie.netlify.app/) |
+| 🎨 **Marvelous Pixie ** | Apple Iphone landing page with minimalist design | HTML, CSS | [Visit](https://marvelous-pixie.netlify.app/) |
 | 🏢 **TechCorp Landing Page** | Corporate site for fictional tech company | HTML, CSS, JS | [Visit](https://karthik7259.github.io/TechCorp/) |
 | ✅ **To-Do List App** | Simple task management web app | HTML, CSS, JS | [Visit](https://karthik7259.github.io/todolist/) |
 
