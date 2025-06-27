@@ -95,21 +95,13 @@ A set of projects leveraging React.js for building modular, component-driven, an
 
 ### 🌐 HTML, CSS & JavaScript Projects
 
-- 🏨 **[Hotel Booking Website](https://hotel-booking-website-livid.vercel.app/)**  
-  `HTML` `CSS` `JavaScript`  
-  A responsive platform for booking hotels with clean UI.
+| Project | Description | Tech Stack | Live Demo |
+|---------|-------------|------------|-----------|
+| 🏨 **Hotel Booking Website** | Responsive booking platform with modern UI | HTML, CSS, JS | [Visit](https://hotel-booking-website-livid.vercel.app/) |
+| 🎨 **Marvelous Pixie ** | Apple-style landing page with minimalist design | HTML, CSS | [Visit](https://marvelous-pixie.netlify.app/) |
+| 🏢 **TechCorp Landing Page** | Corporate site for fictional tech company | HTML, CSS, JS | [Visit](https://karthik7259.github.io/TechCorp/) |
+| ✅ **To-Do List App** | Simple task management web app | HTML, CSS, JS | [Visit](https://karthik7259.github.io/todolist/) |
 
-- 🎨 **[Marvelous Pixie Portfolio](https://marvelous-pixie.netlify.app/)**  
-  `HTML` `CSS` `JavaScript`  
-  A minimalist portfolio inspired by Apple's aesthetic.
-
-- 🏢 **[TechCorp Landing Page](https://karthik7259.github.io/TechCorp/)**  
-  `HTML` `CSS` `JavaScript`  
-  Corporate-style landing page with services and contact info.
-
-- ✅ **[To-Do List App](https://karthik7259.github.io/todolist/)**  
-  `HTML` `CSS` `JavaScript`  
-  A user-friendly task manager with add/delete functionality.
 
 
 
