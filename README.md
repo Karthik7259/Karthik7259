@@ -95,19 +95,21 @@ A set of projects leveraging React.js for building modular, component-driven, an
 
 ### 🌐 HTML, CSS & JavaScript Projects
 
-Explore a selection of my web development projects crafted using HTML, CSS, and JavaScript.:
-
 - 🏨 **[Hotel Booking Website](https://hotel-booking-website-livid.vercel.app/)**  
-  A responsive hotel booking platform with modern UI and intuitive navigation.
+  `HTML` `CSS` `JavaScript`  
+  A responsive platform for booking hotels with clean UI.
 
 - 🎨 **[Marvelous Pixie Portfolio](https://marvelous-pixie.netlify.app/)**  
-  A static Apple-inspired landing page featuring clean layout, responsive design, and aesthetic typography, replicating Apple’s signature minimalist style.
+  `HTML` `CSS` `JavaScript`  
+  A minimalist portfolio inspired by Apple's aesthetic.
 
 - 🏢 **[TechCorp Landing Page](https://karthik7259.github.io/TechCorp/)**  
-  A professional landing page for a fictional tech company highlighting services and contact info.
+  `HTML` `CSS` `JavaScript`  
+  Corporate-style landing page with services and contact info.
 
 - ✅ **[To-Do List App](https://karthik7259.github.io/todolist/)**  
-  A simple and elegant to-do list application that allows users to add and remove tasks with ease.
+  `HTML` `CSS` `JavaScript`  
+  A user-friendly task manager with add/delete functionality.
 
 
 
