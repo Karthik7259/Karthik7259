@@ -82,8 +82,8 @@
 | Project          | Description                                                                                      | Tech Stack                | Live/Repo                                          |
 | ---------------- | -----------------------------------------------------------------------------------------------  | ------------------------- | -------------------------------------------------- |
 | ✅ **ClearTick**  | A dynamic to-do and task manager with sleek UI and real-time interactivity                      | React, CSS                | [Live](https://cleartick.netlify.app/)             |
-| 🌱 **AgriLearn** | An interactive platform for learning smart farming tools and agricultural practices             | React, GSAP, Tailwind CSS | [GitHub](https://github.com/Karthik7259/AgriLearn) |
-| 🧩 **WorkSync**  | Admin can assign tasks; employees view and manage tasks in real-time via                        | React, Tailwind CSS       | [GitHub](https://github.com/Karthik7259/WorkSync)  |
+| 🌱 **AgriLearn** | An interactive platform for learning smart farming tools and agricultural practices              | React, GSAP, Tailwind CSS | [GitHub](https://github.com/Karthik7259/AgriLearn) |
+| 🧩 **WorkSync**  | Admin can assign tasks; employees view and manage tasks in real-time via                         | React, Tailwind CSS       | [GitHub](https://github.com/Karthik7259/WorkSync)  |
 
 
 ### 🔌 IoT-Based Projects
