@@ -68,7 +68,7 @@
 
 ### 🚀 Featured Projects
 
-| Project          | Description                                                                                      | Tech Stack                | Live/Repo                                          |
+| Project          | Description                                                                                      | Tech Stack                | Live / Repo                                          |
 | ---------------- | -----------------------------------------------------------------------------------------------  | ------------------------- | -------------------------------------------------- |
 | 🔗 **RideOnX**   | A full-featured application with real-time tracking and driver-rider interaction                | MERN Stack, Socket.io     | [GitHub](https://github.com/username/RideOnX)     |
 
