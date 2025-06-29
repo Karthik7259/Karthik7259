@@ -72,7 +72,7 @@
 ### ⚡ Next.js Projects
 | Project          | Description                                                                                      | Tech Stack                | Live/Repo                                          |
 | ---------------- | -----------------------------------------------------------------------------------------------  | ------------------------- | -------------------------------------------------- |
-| 🔍 **Pattern Matcher** | Beautiful interactive pattern matching visualization with elegant animations and glass-morphic UI | Next.js, TypeScript       | [GitHub](https://github.com/Karthik7259/Spam-detection) |
+| 🔍 **Pattern Matcher** | Beautiful interactive pattern matching visualization with elegant animations and glass-morphic UI | Next.js, TypeScript     | [Live]([https://spam-detection-ecru.vercel.app/]) |
 
 
 ### 🤖 Machine Learning Projects
