@@ -68,6 +68,12 @@
 | 🔗 **RideOnX**   | A full-featured application with real-time tracking and driver-rider interaction                | MERN Stack, Socket.io     | [GitHub](https://github.com/username/RideOnX)     |
 
 ---
+
+⚡ Next.js Projects
+
+ Project Description Tech Stack Live/Repo 🔍 Pattern Matcher Beautiful interactive pattern matching visualization with elegant animations and glass-morphic UI Next.js, TypeScript GitHub 
+
+
 ### 🤖 Machine Learning Projects
 
 | Project | Description | Tech Stack | Link |
