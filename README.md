@@ -49,7 +49,10 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/SQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/LangChain-3D6F9F?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Crew_AI-8B5CF6?style=for-the-badge&logoColor=white" />
 </p>
+
 
 ---
 
