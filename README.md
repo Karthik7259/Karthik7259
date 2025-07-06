@@ -64,6 +64,8 @@
 </div>
 
 
+![Karthik's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Karthik7259&show_icons=true&theme=radical)
+
 ---
 
 <!-- PROJECTS -->
