@@ -56,15 +56,10 @@
 
 <!-- GITHUB STATS -->
 
-### 🏆 GitHub Trophies
-
-<div align="center">
- <img src="https://github-profile-trophy.vercel.app/?username=Karthik7259&theme=gruvbox&row=2&column=3&no-frame=true&cache=0" />
-
-</div>
 
 
-![Karthik's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Karthik7259&show_icons=true&theme=radical)
+
+
 
 ---
 
