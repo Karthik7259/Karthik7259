@@ -53,14 +53,15 @@
   <img src="https://img.shields.io/badge/Crew_AI-8B5CF6?style=for-the-badge&logoColor=white" />
 </p>
 
-
 ---
 
 <!-- GITHUB STATS -->
 
+### 🏆 GitHub Trophies
 
-<!-- GITHUB TROPHIES -->
-
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Karthik7259&theme=onedark&row=2&column=4" alt="GitHub Trophies" />
+</p>
 
 ---
 
@@ -118,17 +119,10 @@
 | 🏢 **TechCorp Landing Page** | Corporate site for fictional tech company | HTML, CSS, JS | [Visit](https://karthik7259.github.io/TechCorp/) |
 | ✅ **To-Do List App** | Simple task management web app | HTML, CSS, JS | [Visit](https://karthik7259.github.io/todolist/) |
 
-
-
-
-
----
-
-
 ---
 
 <!-- FOOTER -->
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=0e75b6&style=flat" alt="yourusername" />
+  <img src="https://komarev.com/ghpvc/?username=Karthik7259&label=Profile%20views&color=0e75b6&style=flat" alt="Karthik7259" />
 </p>
