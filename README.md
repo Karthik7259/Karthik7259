@@ -59,7 +59,8 @@
 ### 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Karthik7259&theme=gruvbox&row=2&column=3&no-frame=true" />
+ <img src="https://github-profile-trophy.vercel.app/?username=Karthik7259&theme=gruvbox&row=2&column=3&no-frame=true&cache=0" />
+
 </div>
 
 
