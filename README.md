@@ -12,11 +12,9 @@
   <a href="https://www.linkedin.com/in/mohan-karthik-aa169a294" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  
   <a href="https://www.instagram.com/karthik__147?igsh=MXNudTJ5MHZwY2ZmZA==" target="_blank">
     <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  
   <a href="mailto:mohankartik.cs23@rvce.edu.in">
     <img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
@@ -28,13 +26,14 @@
 
 - 👯 I’m looking to collaborate on **Open Source ML and Full-Stack projects**
 - 💬 Ask me about **MERN Stack, Python, and Machine Learning**
-- 📫 How to reach me: **mohankartik.cs23@rvce.edu.in**
+- 📫 Reach me at: **mohankartik.cs23@rvce.edu.in**
 
 ---
 
 <!-- TECH STACK -->
 
 ### 🛠️ Tech Stack
+
 <p align="left">
   <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white&style=for-the-badge" />
@@ -59,9 +58,9 @@
 
 ### 🏆 GitHub Trophies
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Karthik7259&theme=onedark&row=2&column=4" alt="GitHub Trophies" />
-</p>
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Karthik7259&theme=gruvbox&row=2&column=3" alt="GitHub Trophies" style="max-width: 100%; height: auto;" />
+</div>
 
 ---
 
@@ -81,16 +80,15 @@
 |----------------------|----------------------------------------------------------------------------------------------------|----------------------|------------------------------------------------------|
 | 🔍 **Pattern Matcher** | Beautiful interactive pattern matching visualization with elegant animations and glass-morphic UI | Next.js, TypeScript | [Live](https://spam-detection-ecru.vercel.app/) |
 
-
+---
 
 ### 🤖 Machine Learning Projects
 
 | Project | Description | Tech Stack | Link |
 |--------|-------------|------------|------|
-| 🐦 **BirdCLEF Species Identifier** | Audio classification system to identify bird species using spectrograms and CNNs | Python, TensorFlow, Librosa,Flask,React  | [GitHub](https://github.com/Karthik7259/BIRD_CLIF_BACKEND) |
+| 🐦 **BirdCLEF Species Identifier** | Audio classification system to identify bird species using spectrograms and CNNs | Python, TensorFlow, Librosa, Flask, React | [GitHub](https://github.com/Karthik7259/BIRD_CLIF_BACKEND) |
 
-
-
+---
 
 ### ⚛️ React-Based Projects
 
@@ -100,6 +98,7 @@
 | 🌱 **AgriLearn** | An interactive platform for learning smart farming tools and agricultural practices              | React, GSAP, Tailwind CSS | [GitHub](https://github.com/Karthik7259/AgriLearn) |
 | 🧩 **WorkSync**  | Admin can assign tasks; employees view and manage tasks in real-time                            | React, Tailwind CSS       | [GitHub](https://github.com/Karthik7259/WorkSync)  |
 
+---
 
 ### 🔌 IoT-Based Projects
 
@@ -108,7 +107,7 @@
 | 🔥 **FireWatch** | Fire detection system with real-time alerts, sensor data analysis & zone risk | MongoDB Atlas, Sensors, Node.js, React Native | [GitHub](https://github.com/Karthik7259/FIREWATCH.git) |
 | 🧠 **BCI Smart Home Controller** | Brainwave-based smart automation using EEG + ML + Raspberry Pi | Flask, Python, Random Forest, Raspberry Pi | [GitHub](https://github.com/Karthik7259/BCI_BACKEND.git) |
 
-
+---
 
 ### 🌐 HTML, CSS & JavaScript Projects
 
