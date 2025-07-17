@@ -79,7 +79,10 @@
 <!--- trophy (start) -->
 <div align=center>
  
-[![trophy](https://github-profile-trophy.vercel.app/?username=Karthik7259&theme=onedark&title=-Reviews&no-frame=true&margin-w=4&margin-h=4)](https://github.com/ryo-ma/github-profile-trophy)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=karthik7259&theme=algolia&title=Stars,Followers,Commits,Repositories,PullRequest" alt="trophies" />
+</p>
+
   
 </div>
 <!--- trophy (start) -->
