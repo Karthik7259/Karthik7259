@@ -119,7 +119,7 @@
 
 | Project | Description | Tech Stack | Link |
 |--------|-------------|------------|------|
-| 🐦 **BirdCLEF Species Identifier** | Audio classification system to identify bird species using spectrograms and CNNs | Python, TensorFlow, Librosa, Flask, React | [GitHub](https://github.com/Karthik7259/BIRD_CLIF_BACKEND) |
+| 🐦 **BirdCLEF Species Identifier** | Audio classification system to identify bird species using spectrograms and CNNs | Python, TensorFlow, Librosa, Flask, React | [GitHub](https://github.com/Karthik7259/BIRD_CLIF) |
 
 ---
 
