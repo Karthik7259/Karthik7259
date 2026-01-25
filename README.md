@@ -87,13 +87,7 @@
   
   
 </div> -->
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img width="84%" 
-         src="https://github-profile-trophy.vercel.app/?username=Karthik7259&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" 
-         alt="GitHub Trophies" />
-  </a>
-</div>
+[![trophy](https://github-profile-trophy.vercel.app/?username=karthik7259)](https://github.com/karthik7259/github-profile-trophy)
 
 <div align="center">
   <a href="https://github.com/Karthik7259">
